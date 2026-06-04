@@ -1,0 +1,8 @@
+[book]
+title = "Kubernetes in Action 中文版"
+authors = []
+language = "zh-CN"
+
+[output.html]
+[output.epub]
+[output.pdf]
